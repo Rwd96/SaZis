@@ -1,1 +1,11 @@
-# SaZis
+![AWS Project Presentation -01](https://github.com/Rwd96/SaZis/assets/145391997/4935b0f8-6fc8-4053-b5c7-a274c8fa62c9)
+![AWS Project Presentation -02](https://github.com/Rwd96/SaZis/assets/145391997/c2902dfc-cfb9-448d-8cd0-44d16dd48ef5)
+![AWS Project Presentation -03](https://github.com/Rwd96/SaZis/assets/145391997/4f20ee58-0ca0-4122-ac15-3bd1bb542696)
+![AWS Project Presentation -04](https://github.com/Rwd96/SaZis/assets/145391997/14502615-34ac-44db-9e5b-db34228f8ab0)
+![AWS Project Presentation -05](https://github.com/Rwd96/SaZis/assets/145391997/6686cf4c-cf39-43d9-897f-7e35649c6a5f)
+![AWS Project Presentation -06](https://github.com/Rwd96/SaZis/assets/145391997/a8da311f-414e-4164-b0ba-099a01b19f8a)
+![AWS Project Presentation -07](https://github.com/Rwd96/SaZis/assets/145391997/dee51c18-d912-47f7-9760-5cb70f24ce12)
+![AWS Project Presentation -08](https://github.com/Rwd96/SaZis/assets/145391997/01577fc9-5c68-4c2b-a852-dae944b422d4)
+![AWS Project Presentation -09](https://github.com/Rwd96/SaZis/assets/145391997/e83df0a7-688e-4516-a066-f591c7a593b8)
+![AWS Project Presentation -10](https://github.com/Rwd96/SaZis/assets/145391997/6e301c48-c314-4a2f-b234-6e83a617e9af)
+![AWS Project Presentation -11](https://github.com/Rwd96/SaZis/assets/145391997/f2b888b3-5286-4747-833c-37f2ff3173ae)
